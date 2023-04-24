@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seqwith
 - 👀 I’m interested in Programming and Cybersecurity
-- 🌱 I’m currently learning Network+ and Python
+- 🌱 I’m currently learning Cybersecurity Skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
